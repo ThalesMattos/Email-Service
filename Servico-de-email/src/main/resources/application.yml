@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Servico-de-email
+  cloud:
+    aws:
+      credentials:
+        access-key: AKIA47CRZGOFT2K5HU3G
+        secret-key: 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
+      region:
+        static: us-east-2

@@ -1,0 +1,9 @@
+C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\core\EmailSenderUseCase.java
+C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\infrastructure\ses\SesEmailSender.java
+C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\core\exceptions\EmailServiceException.java
+C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\infrastructure\ses\awsSesConfig.java
+C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\adapters\EmailSenderGateway.java
+C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\core\EmailRequest.java
+C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\ServicoDeEmailApplication.java
+C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\controllers\EmailSenderController.java
+C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\application\EmailSenderService.java
