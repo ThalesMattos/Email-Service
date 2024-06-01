@@ -1,3 +1,10 @@
-Serviço de email simples utilizando Java Spring e SES (Simple email service) da AWS.
+# Email Service
+Esta é uma aplicação back-end que tem como objetivo envio de emails simples.
 
-Código feito utilizando os principios da arquitetura limpa.
+# Tecnologias
+As tecnologias utilizadas foram: 
+- **AWS SES** (Simple email service)
+- **AWS IAM** (Identity and Access Management)
+- **Java Spring**
+
+# Instruções de utilização
