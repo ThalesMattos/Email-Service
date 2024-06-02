@@ -14,7 +14,7 @@ Siga os passos abaixo para rodar a aplicação:
 1. Clone o repositório:
 	- Abra um terminal e execute o seguinte comando para clonar o repositório:
 	```bash
-	https://github.com/ThalesMattos/Email-service.git
+	git clone https://github.com/ThalesMattos/Email-service.git
 	```
 	- Alternativamente, você pode fazer download do projeto na página deste repositório no GitHub. Para isso, clique em `Code > Download ZIP`
 
