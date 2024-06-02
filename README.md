@@ -22,6 +22,7 @@ Após rodar a aplicação com exito, siga o passo a passo abaixo.
 1. Para enviar um email, devemos abrir um **cliente https** (como o **Insomnia**, utilizado no exemplo abaixo) e clicar na opção **POST**:
 
 ![image](https://github.com/ThalesMattos/Email-service/assets/103903195/ab12abcd-8c9d-4980-9247-656b513a4483)
+
 2. Insita a url **localhost:8080/api/email**:
 
 	![image](https://github.com/ThalesMattos/Email-service/assets/103903195/63cfdc9d-1608-4aaa-80fa-5fef49056563)
