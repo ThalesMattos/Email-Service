@@ -9,14 +9,14 @@ As tecnologias utilizadas foram:
 
 # Instruções de utilização
 
-Siga os passos abaixo para rodar a aplicação:
+Siga o passo abaixo para rodar a aplicação:
 
-1. Clone o repositório:
-	- Abra um terminal e execute o seguinte comando para clonar o repositório:
+Clone o repositório:
+- Abra um terminal e execute o seguinte comando para clonar o repositório:
 	```bash
 	git clone https://github.com/ThalesMattos/Email-service.git
 	```
-	- Alternativamente, você pode fazer download do projeto na página deste repositório no GitHub. Para isso, clique em `Code > Download ZIP`
+- Alternativamente, você pode fazer download do projeto na página deste repositório no GitHub. Para isso, clique em `Code > Download ZIP`
 
 Após rodar a aplicação com exito, siga o passo a passo abaixo.
 1. Para enviar um email, devemos abrir um **cliente https** (como o **Insomnia**, utilizado no exemplo abaixo) e clicar na opção **POST**:
