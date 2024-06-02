@@ -8,21 +8,31 @@ As tecnologias utilizadas foram:
 - **Java Spring**
 
 # Instruções de utilização
+
+Siga os passos abaixo para rodar a aplicação:
+
+1. Clone o repositório:
+	- Abra um terminal e execute o seguinte comando para clonar o repositório:
+	```bash
+	https://github.com/ThalesMattos/Email-service.git
+	```
+	- Alternativamente, você pode fazer download do projeto na página deste repositório no GitHub. Para isso, clique em `Code > Download ZIP`
+
 Após rodar a aplicação com exito, siga o passo a passo abaixo.
 1. Para enviar um email, devemos abrir um **cliente https** (como o **Insomnia**, utilizado no exemplo abaixo) e clicar na opção **POST**:
 ![image](https://github.com/ThalesMattos/Email-service/assets/103903195/ab12abcd-8c9d-4980-9247-656b513a4483)
 2. Insita a url **localhost:8080/api/email**:
 
-![image](https://github.com/ThalesMattos/Email-service/assets/103903195/63cfdc9d-1608-4aaa-80fa-5fef49056563)
+	![image](https://github.com/ThalesMattos/Email-service/assets/103903195/63cfdc9d-1608-4aaa-80fa-5fef49056563)
 
 3. Selecione a linguagem JSON e cole o seguinte trecho de código, apenas alterando o que está entre as aspas duplas:
-
+```bash
 {
 	"to": "Destinatário",
 	"subject": "Assunto",
 	"body": "Corpo do email"
 }
-
+```
 ![image](https://github.com/ThalesMattos/Email-service/assets/103903195/04b5a44b-8590-44b6-9d87-8830f4637627)
 
 4. Clique em **Send**:
