@@ -35,8 +35,16 @@ Siga o passo abaixo para rodar a aplicação:
 3. Após criar uma identidade no **Amazon Simple Email Service**, acesse o **IAM** ou **Identity and Access Management**:
 	![image](https://github.com/ThalesMattos/Email-Service/assets/103903195/c4585761-9027-41b6-be7b-af2f1bd58d39)
 	- Clique na opção **Usuários** e depois em **criar usuário**:
-		![image](https://github.com/ThalesMattos/Email-Service/assets/103903195/c0e2d89c-79a9-4104-a109-6a1c4f8777df)
-	
+
+	![image](https://github.com/ThalesMattos/Email-Service/assets/103903195/4b5171a5-457d-4688-907b-f29dc36db21b)
+
+	![image](https://github.com/ThalesMattos/Email-Service/assets/103903195/90c210a3-4454-4778-8358-4b1c0c203426)
+
+	- Preencha o campo **nome** com o que deseja:
+	![image](https://github.com/ThalesMattos/Email-Service/assets/103903195/7f091eef-0a02-4bea-bd50-9837ff49e67d)
+
+	- 
+
 
 Clone o repositório:
 - Abra um terminal e execute o seguinte comando para clonar o repositório:
