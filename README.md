@@ -9,7 +9,7 @@ As tecnologias utilizadas foram:
 
 # Instruções de utilização
 
-Siga o passo abaixo para rodar a aplicação:
+Siga o passo a passo abaixo para rodar a aplicação:
 
 1. Crie ou logue em uma conta na AWS https://aws.amazon.com/.
 
