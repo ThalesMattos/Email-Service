@@ -11,9 +11,9 @@ As tecnologias utilizadas foram:
 
 Siga o passo abaixo para rodar a aplicação:
 
-1. Crie uma conta na AWS https://aws.amazon.com/
+1. Crie ou logue em uma conta na AWS https://aws.amazon.com/.
 
-2. Apos ter criado a conta, vamos criar uma identidade no **Amazon Simple Email Service**.
+2. Vamos criar uma identidade no **Amazon Simple Email Service**.
      ![image](https://github.com/ThalesMattos/Email-Service/assets/103903195/fbccfae7-5462-467c-b7fe-21506dce6907)
    
      - Acesse a parte de `Configurações > Identidades`:
