@@ -1,9 +1,8 @@
-C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\core\EmailSenderUseCase.java
-C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\infrastructure\ses\SesEmailSender.java
-C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\core\exceptions\EmailServiceException.java
-C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\infrastructure\ses\awsSesConfig.java
-C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\adapters\EmailSenderGateway.java
-C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\core\EmailRequest.java
-C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\ServicoDeEmailApplication.java
-C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\controllers\EmailSenderController.java
-C:\Users\Seidor\IdeaProjects\Servico-de-email\src\main\java\com\thalesmattos\servicodeemail\application\EmailSenderService.java
+C:\Users\Seidor\IdeaProjects\Email-Service-gitclone\Email-service\Email-Service\src\main\java\com\emailservice\emailservice\implementations\ses\EmailSenderGatewayImpl.java
+C:\Users\Seidor\IdeaProjects\Email-Service-gitclone\Email-service\Email-Service\src\main\java\com\emailservice\emailservice\services\EmailSenderService.java
+C:\Users\Seidor\IdeaProjects\Email-Service-gitclone\Email-service\Email-Service\src\main\java\com\emailservice\emailservice\core\vo\EmailRequest.java
+C:\Users\Seidor\IdeaProjects\Email-Service-gitclone\Email-service\Email-Service\src\main\java\com\emailservice\emailservice\adapters\IEmailSenderGateway.java
+C:\Users\Seidor\IdeaProjects\Email-Service-gitclone\Email-service\Email-Service\src\main\java\com\emailservice\emailservice\advice\ExceptionAdvice.java
+C:\Users\Seidor\IdeaProjects\Email-Service-gitclone\Email-service\Email-Service\src\main\java\com\emailservice\emailservice\core\exceptions\EmailServiceException.java
+C:\Users\Seidor\IdeaProjects\Email-Service-gitclone\Email-service\Email-Service\src\main\java\com\emailservice\emailservice\ServicoDeEmailApplication.java
+C:\Users\Seidor\IdeaProjects\Email-Service-gitclone\Email-service\Email-Service\src\main\java\com\emailservice\emailservice\controllers\EmailSenderController.java

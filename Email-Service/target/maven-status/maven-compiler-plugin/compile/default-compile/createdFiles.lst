@@ -1,0 +1,8 @@
+com\emailservice\emailservice\implementations\ses\EmailSenderGatewayImpl.class
+com\emailservice\emailservice\ServicoDeEmailApplication.class
+com\emailservice\emailservice\core\vo\EmailRequest.class
+com\emailservice\emailservice\controllers\EmailSenderController.class
+com\emailservice\emailservice\adapters\IEmailSenderGateway.class
+com\emailservice\emailservice\advice\ExceptionAdvice.class
+com\emailservice\emailservice\core\exceptions\EmailServiceException.class
+com\emailservice\emailservice\services\EmailSenderService.class
